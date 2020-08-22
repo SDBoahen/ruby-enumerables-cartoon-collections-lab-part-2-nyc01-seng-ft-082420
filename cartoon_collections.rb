@@ -25,7 +25,7 @@ def
   
   long_planeteer_calls(planeteer_calls)
   
-  planeteer_calls.any? { |any_string| any_string.length < 4 }
+  planeteer_calls.any?{ |any_string| any_string.length < 4 }
   
   false
   
