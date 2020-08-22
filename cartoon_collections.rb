@@ -3,6 +3,8 @@
 def 
   
   square_array(array)
+  
+  
 
 end
 # Use an Enumerable to square every element in the passed in array
