@@ -41,7 +41,7 @@ def
   
   planeteer_calls.detect do |element|
     
-    if end 
+    if valid_calls.include? end 
                          end
   
 end
