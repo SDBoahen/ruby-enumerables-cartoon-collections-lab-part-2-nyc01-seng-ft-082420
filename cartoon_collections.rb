@@ -27,6 +27,8 @@ def
   
   planeteer_calls.any? { |any_string| any_string.length < 4 }
   
+  false
+  
 end
 # Use an Enumerable to check if any string in the passed in array is greater than 4 characters long
 # Return the boolean result of this check
