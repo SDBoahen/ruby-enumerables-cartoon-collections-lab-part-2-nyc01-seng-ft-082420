@@ -39,7 +39,7 @@ def
   
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
   
-  planeteer_calls.
+  planeteer_calls.detect
   
 end
 # Use an Enumerable to check if any elements in the passed in array match the valid calls listed above 
