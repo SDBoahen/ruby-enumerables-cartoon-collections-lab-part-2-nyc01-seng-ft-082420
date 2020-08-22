@@ -29,8 +29,9 @@ def
      p planeteer_calls 
      puts
   
-  planeteer_calls.any? { |any_string| any_string.length < 4 }
-  
+  planeteer_calls.any? { |any_string| any_string.length > 4 }
+                                                # !!  (<)  !!
+                                                #
   #  -x-  false
   
 end
