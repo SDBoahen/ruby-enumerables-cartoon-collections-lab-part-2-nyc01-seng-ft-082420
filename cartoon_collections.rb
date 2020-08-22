@@ -41,6 +41,8 @@ def
   
   planeteer_calls.detect do |element|
     
+    if end 
+                         end
   
 end
 # Use an Enumerable to check if any elements in the passed in array match the valid calls listed above 
