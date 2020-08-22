@@ -40,8 +40,7 @@ def
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
   
   planeteer_calls.detect do |element|
-    
-    if valid_calls.include? end 
+    if  valid_calls.include? (element)  end 
                          end
   
 end
