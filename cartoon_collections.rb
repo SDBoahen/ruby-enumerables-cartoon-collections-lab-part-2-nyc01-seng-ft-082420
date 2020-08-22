@@ -4,7 +4,7 @@ def
   
   square_array(array)
   
-  array.map {  }
+  array.map { |element| }
   
 
 end
